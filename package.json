@@ -1,6 +1,6 @@
 {
   "name": "queryflow-ai",
-  "version": "0.0.1",
+  "version": "0.0.1-beta",
   "description": "Typescript SDK for QueryflowAI",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
