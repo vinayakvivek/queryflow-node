@@ -1,4 +1,4 @@
-import { QueryflowClient } from "../src";
+import { QueryflowClient } from "queryflow-ai";
 
 const client = new QueryflowClient({
   apiKey: "YOUR_API_KEY",
